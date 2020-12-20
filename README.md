@@ -28,3 +28,5 @@ To Do list:
 - [x] Fazer melhorias no site
 - [ ] Criar loja virtual
 - [ ] Criar app
+- [ ] Finalizar reunião com o cliente
+- [ ] Receber pagamento
